@@ -6,7 +6,8 @@ import {
   UpdateDateColumn,
   OneToMany,
 } from 'typeorm';
-
+//Continuar a partir de 49:18 no video
+//https://www.youtube.com/watch?v=nYcdmLIPr7s
 import OrdersProducts from '@modules/orders/infra/typeorm/entities/OrdersProducts';
 
 class Product {
